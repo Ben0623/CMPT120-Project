@@ -17,6 +17,8 @@ def main():
     input ("Press ENTER to make the sandwich")
     input ("Now press Enter to take a bite")
     print ("The rotten Jelly promptly makes you projectile vomit everywhere")
+    input ("Press ENTER to end the game")
+    print ("Ben Volino copyright 2020")
     input ("Press enter to TERMINATE this game")
     quit 
         
